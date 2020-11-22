@@ -10,3 +10,6 @@ The purpose of this analysis is to see if the six models can provide a credit ri
 Below are the screenshots of the six models: 
 - Native Ramdom Oversampling: 
 <img src="screenshots/oversampling.png">
+The model reports an accuracy test of 65%, a precision score of 99%, and a recall score of 61%, among them the accuaracy and recall scores are not high enough, not reliable metric. 
+
+- SMOTE Oversampling: 
