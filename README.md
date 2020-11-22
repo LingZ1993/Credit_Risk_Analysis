@@ -14,3 +14,7 @@ The model reports an accuracy test of 65%, a precision score of 99%, and a recal
 
 - SMOTE Oversampling: 
 <img src="screenshots/SMOTE_oversampling.png">
+This model reports an accuracy test of 66%, a precision score of 99%, and a recall score of 69%, also not high enough to be reliable metric. 
+
+- ClusterCentroids Undersampling: 
+<img src="screenshots/undersampling.png">
