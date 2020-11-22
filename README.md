@@ -13,3 +13,4 @@ Below are the screenshots of the six models:
 The model reports an accuracy test of 65%, a precision score of 99%, and a recall score of 61%, among them the accuaracy and recall scores are not high enough, not reliable metric. 
 
 - SMOTE Oversampling: 
+<img src="screenshots/SMOTE_oversampling.png">
