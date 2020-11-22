@@ -8,3 +8,5 @@ The purpose of this analysis is to see if the six models can provide a credit ri
 
 ## Result
 Below are the screenshots of the six models: 
+- Native Ramdom Oversampling: 
+<img src="screenshots/oversampling.png">
