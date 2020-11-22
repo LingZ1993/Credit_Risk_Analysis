@@ -5,3 +5,6 @@ The dataset I used is from LendingClub, by oversampling the data using SMOTE alg
 
 ## Purpose of this analysis
 The purpose of this analysis is to see if the six models can provide a credit risk prediction tool, using the provided dataset from LendingClub. 
+
+## Result
+Below are the screenshots of the six models: 
