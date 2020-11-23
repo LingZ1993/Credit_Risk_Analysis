@@ -31,3 +31,6 @@ This model reports an accuracy test of 77%, a precision score of 99%, and a reca
 - Easy Ensemble Adaboost Classifier: 
 <img src="screenshots/Ensemble.png">
 And the sixth model, we have an accuracy test of 93%, a precision score of 99%, and a recall score of 94%, which is much higher than the previous models, but still not strong enough to be reliable metrics for predicting credit risk. 
+
+## Summary
+The first 5 models are all showing low accuracy and recall score, first four models are undersampling, oversampling and combination, to predict which loans are at the highest risk,and then the other 2 models are using resampling data using ensemble classifiers to predict which loans are high or low risks. Only the last model (Easy Ensemble) showing a much higher recall score and accuracy test score, but still not high enough (at least 99.5%) to be a reliable metrics. So some improvements are needed. 
