@@ -18,7 +18,11 @@ This model reports an accuracy test of 66%, a precision score of 99%, and a reca
 
 - ClusterCentroids Undersampling: 
 <img src="screenshots/undersampling.png">
-This model reports an accuracy test of 66%, a precision score of 99%, and a recall score of 41%, also not high enough to be reliable metric. 
+This model reports an accuracy test of 66%, a precision score of 99%, and a recall score of 68%, also not high enough to be reliable metric. 
 
 - SMOTEENN Sampling: 
 <img src="screenshots/SMOTEENN.png">
+This model reports an accuracy test of 55%, a precision score of 99%, and a recall score of 72%, also not high enough to be reliable metric. 
+
+- Balanced Random Forest Classifier: 
+<img src="screenshots/forest_result.png">
