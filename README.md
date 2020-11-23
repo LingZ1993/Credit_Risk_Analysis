@@ -30,3 +30,4 @@ This model reports an accuracy test of 77%, a precision score of 99%, and a reca
 
 - Easy Ensemble Adaboost Classifier: 
 <img src="screenshots/Ensemble.png">
+And the sixth model, we have an accuracy test of 93%, a precision score of 99%, and a recall score of 94%, which is much higher than the previous models, but still not strong enough to be reliable metrics for predicting credit risk. 
