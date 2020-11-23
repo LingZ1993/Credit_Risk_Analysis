@@ -26,3 +26,7 @@ This model reports an accuracy test of 55%, a precision score of 99%, and a reca
 
 - Balanced Random Forest Classifier: 
 <img src="screenshots/forest_result.png">
+This model reports an accuracy test of 77%, a precision score of 99%, and a recall score of 87%, not high enough to be reliable metric.
+
+- Easy Ensemble Adaboost Classifier: 
+<img src="screenshots/Ensemble.png">
